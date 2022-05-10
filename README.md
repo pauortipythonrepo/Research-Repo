@@ -1,6 +1,8 @@
 # Research-Repo
 Occupancy Detection Code
+
 Contact: paul.ortiz.nm@gmail.com
+
 This repo contains all resources from the project
 
 
