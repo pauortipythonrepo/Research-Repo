@@ -3,7 +3,7 @@ Occupancy Detection Code
 
 Contact: paul.ortiz.nm@gmail.com
 
-This repo contains all resources for this project.
+This repo contains all resources for this project. Also included is a copy of the thesis it is based on and all the refrences used.
 
 
 # Archive
